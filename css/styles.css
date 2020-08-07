@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    /*padding-top: 3rem;
+    padding-bottom: 3rem;*/
+    position: relative;
+    display: inline-block;
+    left: 300px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #80bdab;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #80bdab;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 10%;
+    border-color: #f7f7f7;
+    border-color: #80bdab;
+}
+
+.btn {
+    background-color: #76b39d;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #f7f7f7;
+    border: none;
+}
+
+.a-view {
+    margin-right: 240px;
+}
+
+.container-bottom {
+    background-color: #80bdab;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container-middle {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.container-top {
+    background-color: #effcef;
+}
+
+.container-hello {
+    width: 60%;
+    margin-bottom: 50px;
+    margin: 0 auto 50px;
+    line-height: 2;
+}
+
+.container-project {
+    padding: 50px 0 100px;
+    line-height: 2;
+}
+
+.end {
+    color: #f7f7f7;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.ent {
+    text-decoration: underline;
+}
+
+.h1-top {
+    margin-top: 0;
+    padding-top: 50px;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #80bdab;
+}
+
+.icons {
+    width: 50px;
+    height: 40px;
+}
+
+.img-1 {
+    width: 25%;
+    float: left;
+}
+
+.img-2 {
+    width: 25%;
+    float: right;
+}
+
+.img-3 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.img-top {
+    width: 7.25rem;
+    height: 7.25rem;
+    position: absolute;
+    left: 3.125rem;
+    top: 15px;
+    border-radius: 100%;
+}
+
+.img-mid {
+    width: 30%;
+    border-radius: 100%;
+}
+
+.navigation {
+    background-color: #effcef;
+    /*display: block;*/
+    padding-top: 3.125rem;
+    padding-bottom: 50px;
+    /* width: 100%; */
+}
+
+.par-1 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.scroll {
+    text-decoration: none;
+    color: #80bdab;
+    font-size: 20px;
+}
+
+.skills-1 {
+    margin-bottom: 200px;
+    margin-top: 50px;
+    line-height: 2;
+}
+
+.skills-2 {
+    margin-bottom: 200px;
+    line-height: 2;
+}
+
+.ti {
+    margin-top: 50px;
+}
+
+.touch {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.coding {
+    line-height: 1.5;
+}
